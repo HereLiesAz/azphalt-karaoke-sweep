@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Lights each character green and bumps it up a notch as it lands, then drops it back to half-white — a sing-along wipe.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
